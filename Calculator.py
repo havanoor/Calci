@@ -16,3 +16,6 @@ def pow(base, power):
 
 def sub(a, b):
     return a-b
+
+def multiply(a,b):
+    return(a,b)
